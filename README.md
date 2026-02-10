@@ -1,1 +1,14 @@
-# analeahdizon-wq.github.io
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My Website</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<h1>Welcome to My Website</h1>
+<button id="btn">Click Me</button>
+
+<script src="script.js"></script>
+</body>
+</html>
