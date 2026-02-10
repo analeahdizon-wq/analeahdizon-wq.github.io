@@ -1,14 +1,10 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>My Website</title>
-  <link rel="stylesheet" href="style.css">
+  <title>My First Website</title>
 </head>
 <body>
-
-<h1>Welcome to My Website</h1>
-<button id="btn">Click Me</button>
-
-<script src="script.js"></script>
+  <h1>Hello, world!</h1>
+  <p>This is my website.</p>
 </body>
 </html>
